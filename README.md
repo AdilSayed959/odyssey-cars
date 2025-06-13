@@ -3,7 +3,7 @@
 A lightning-fast, mobile-first car-rental site built with **HTML 5, CSS 3, and vanilla JavaScript**.  
 Odyssey Cars demonstrates how clean front-end code, smart SEO, and Core Web Vitals-oriented performance tuning can turn a static site into a business-ready lead generator.
 
-[**Live Demo →**](https://yourusername.github.io/odyssey-cars/) &nbsp;|&nbsp; [**Report an Issue →**](../../issues)
+[**Live Demo →**](https://adilsayed959.github.io/odyssey-cars/) &nbsp;|&nbsp; [**Report an Issue →**](../../issues)
 
 ---
 
